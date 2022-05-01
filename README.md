@@ -1,6 +1,17 @@
-<h1 id="intro">Intro</h1>
-
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-color: aqua;
+            }
+            h1 {
+                color: gray;
+    
+            }
+    
+        </style>
+        <h1 id="intro">Intro</h1>
 
 <h2 id="joshuarichter">Joshua Richter</h2>
 
@@ -32,7 +43,7 @@
 <li>Responsibility</li>
 </ol>
 
-<p>A lot of what I have to offer comes from my hobbies and what not. There is something being said about being boastfull about your own technical skills and so forth. But I am still learning how to properly sell myself as it were.</p>
+<p>A lot of what I have to offer comes from my hobbies and what not. There is something being said about being boastful about your own technical skills and so forth. But I am still learning how to properly sell myself as it were.</p>
 
 <p>Also to be added</p>
 
@@ -107,3 +118,7 @@
 from chenyongjian133 in github repo</p>
 
 <p><a href="./README.md">return to home</a></p>
+
+    </head>
+</html>
+
