@@ -26,7 +26,7 @@
 
 <li><a href="./Hobbies.md">Hobbies</a></li>
 
-<li><a href="./CareerPursuit.md">Career Pursuits</a></li>
+<li><a href="./CareerPursuit.html">Career Pursuits</a></li>
 </ul>
 
 <h1 id="skills">Skills</h1>
