@@ -20,11 +20,11 @@
 <p>You can go through my website using these links</p>
 
 <ul>
-<li><a href="./Skills.md">Skills</a></li>
+<li><a href="./Skills.html">Skills</a></li>
 
-<li><a href="./CodeSample.md">Code Sample</a></li>
+<li><a href="./CodeSample.html">Code Sample</a></li>
 
-<li><a href="./Hobbies.md">Hobbies</a></li>
+<li><a href="./Hobbies.html">Hobbies</a></li>
 
 <li><a href="./CareerPursuit.html">Career Pursuits</a></li>
 </ul>
@@ -53,7 +53,7 @@
 <li>Resliliant</li>
 </ul>
 
-<p><a href="./README.md">Go back to home page</a></p>
+<p><a href="./index.html">Go back to home page</a></p>
 
 <h1 id="codesample">Code Sample</h1>
 
@@ -84,7 +84,7 @@
 
 <p></body></p>
 
-<p><a href="./README.md">return to home page</a></p>
+<p><a href="./index.html">return to home page</a></p>
 
 <h1 id="hobbies">Hobbies</h1>
 
@@ -106,7 +106,7 @@
 <li>NBA 2K22</li>
 </ul>
 
-<p><a href="./README.md">return to home</a></p>
+<p><a href="./index.html">return to home</a></p>
 
 <h1 id="careerpursuits">Career Pursuits</h1>
 
@@ -117,7 +117,7 @@
 <p><img src="https://user-images.githubusercontent.com/101736848/158716166-428da810-5f57-424c-b294-f0c3f8f082e1.jpg" alt="minion_2" />
 from chenyongjian133 in github repo</p>
 
-<p><a href="./README.md">return to home</a></p>
+<p><a href="./index.html">return to home</a></p>
 
     </head>
 </html>
