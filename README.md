@@ -1,5 +1,6 @@
 <h1 id="intro">Intro</h1>
 
+
 <h2 id="joshuarichter">Joshua Richter</h2>
 
 <p>I am a student at Mizzou, and I have a lot of interests and hobbies.</p>
